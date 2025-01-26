@@ -1,4 +1,4 @@
-# XUI-REVERSE-PROXY ([Russian](/README_RU.md)) <img src="https://img.shields.io/github/stars/cortez24rus/xui-reverse-proxy?style=social" /> 
+# XUI-REVERSE-PROXY ([Russian](/README_RU.md)) <img src="https://img.shields.io/github/stars/R00t4X/xui-rev?style=social" /> 
 ![Total Views Month Badge](https://img.shields.io/badge/Total%20V%20Per%20Month-2169-blue)
 ![Unique Views Month Badge](https://img.shields.io/badge/Unique%20V%20Per%20Month-322-green)
 <p align="center"><a href="#"><img src="./media/3X-UI.png" alt="Image" ></a></p>
@@ -92,12 +92,12 @@ Usage: xui-rp-install-server.sh [-g|--generate <true|false>] [-u|--utils <true|f
 
 To begin configuring the server, simply run the following command in a terminal:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main/xui-rp-install-server.sh)
+bash <(curl -Ls https://github.com/R00t4X/xui-rev/raw/refs/heads/main/xui-rp-install-server.sh)
 ```
 
 ### Installing a random template for the website:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main/xui-rp-random-site.sh)
+bash <(curl -Ls https://github.com/R00t4X/xui-rev/raw/refs/heads/main/xui-rp-random-site.sh)
 ```
 
 The script will then prompt you for the necessary configuration information:
@@ -124,4 +124,4 @@ The script will then prompt you for the necessary configuration information:
 -----
 
 ## Stargazers over time
-[![Stargazers over time](https://starchart.cc/cortez24rus/xui-reverse-proxy.svg?variant=adaptive)](https://starchart.cc/cortez24rus/xui-reverse-proxy)
+[![Stargazers over time](https://starchart.cc/R00t4X/xui-rev.svg?variant=adaptive)](https://starchart.cc/R00t4X/xui-rev)

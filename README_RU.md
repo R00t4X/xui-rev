@@ -1,4 +1,4 @@
-# XUI-REVERSE-PROXY ([English](/README.md)) <img src="https://img.shields.io/github/stars/cortez24rus/xui-reverse-proxy?style=social" />
+# XUI-REVERSE-PROXY ([English](/README.md)) <img src="https://img.shields.io/github/stars/R00t4X/xui-rev?style=social" />
 <p align="center"><a href="#"><img src="./media/3X-UI.png" alt="Image"></a></p>
 
 -----
@@ -91,12 +91,12 @@
 
 Для начала настройки сервера выполните следующую команду в терминале:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main/xui-rp-install-server.sh)
+bash <(curl -Ls https://github.com/R00t4X/xui-rev/raw/refs/heads/main/xui-rp-install-server.sh)
 ```
 
 ### Установка случайного шаблона для веб-сайта:
 ```sh
-bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/main/xui-rp-random-site.sh)
+bash <(curl -Ls https://github.com/R00t4X/xui-rev/raw/refs/heads/main/xui-rp-random-site.sh)
 ```
 
 Скрипт запросит у вас необходимую конфигурационную информацию:
@@ -123,4 +123,4 @@ bash <(curl -Ls https://github.com/cortez24rus/xui-reverse-proxy/raw/refs/heads/
 -----
 
 ## Количество звезд по времени
-[![Stargazers over time](https://starchart.cc/cortez24rus/xui-reverse-proxy.svg?variant=adaptive)](https://starchart.cc/cortez24rus/xui-reverse-proxy)
+[![Stargazers over time](https://starchart.cc/R00t4X/xui-rev.svg?variant=adaptive)](https://starchart.cc/R00t4X/xui-rev)
